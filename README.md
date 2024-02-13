@@ -17,13 +17,10 @@ The ticket Booking system is a web-based application that allows users to book T
 **Client:** HTML, CSS ,Javascript,React.js
 
 
-## Video Presentation 
-
-**Video Link** -  https://drive.google.com/file/d/1aqzvgL7D3sF2CXU-8f9w-4rIjpt80VTw/view?usp=sharing
 
 ## Deployment
 
-**Server side:** Render cloud https://tbs-ye6x.onrender.com/
+
 
 **Client side:** Netlify https://phenomenal-frangollo-b5553e.netlify.app/
 
@@ -35,11 +32,7 @@ The ticket Booking system is a web-based application that allows users to book T
 -  Only available tickets can be booked
 
 
-###  Run Locally Clone this Project
 
-```
-https://github.com/bire210/ticketBookingApp.git
-```
 ### Runs the project in the development mode
 
 [http://localhost:8080](http://localhost:8080)
@@ -116,24 +109,9 @@ DELETE `http://localhost:8080/api/bus/book/${id}
 
 
 
- ### USERS DATA/ LOGIN DATA
-
-```javascript
-{
-  email:birendra@gmail.com
-  password:123456
-}
-
-
-```
-
+ 
 
 
 
 
  
-| `Authors` |
-| :-------: | 
-
- 
- [@bire210](https://github.com/bire210) 
